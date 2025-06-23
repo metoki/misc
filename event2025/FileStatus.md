@@ -12,7 +12,7 @@
 | 秋高連 | 秋高連総会.txt |![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/B_small.jpg) <br/>![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/C_small.jpg)  |
 |29期_田村祐子|鳳鳴会２０２４〔提出用）.txt| |
 |34期_三木尚子| 鳳鳴会.docx| |
-|49期_長岐康平|  スクリーンショット 2025-06-20 112502.png <br/> スクリーンショット 2025-06-20 112709.png<br/> 鳳鳴会寄稿文（長岐康平）.docx| |
+|49期_長岐康平|  スクリーンショット 2025-06-20 112502.png <br/> スクリーンショット 2025-06-20 112709.png<br/> 鳳鳴会寄稿文（長岐康平）.docx| ![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/D_small.jpg) <br/>![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/E_small.jpg) <br/>|
 |67期_松岡芳篤 |  同窓会に初めて参加して.docx | |
 |広報        | 20期広告案R2.pptx <br/>25年度会費納入のお願い分　修正250623.pptx <br/>  25年度総会ご意見伺い書案.docx | |
 | 店舗紹介    | 会報店紹介記事（しぇんろん）R1.pptx <br/>  会報店紹介記事作成要領R1.pptx |
