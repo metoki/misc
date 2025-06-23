@@ -8,7 +8,7 @@
 |---|---|---|
 |石川会長 | 会長挨拶.txt | 写真未収|
 |佐藤前会長 | 青森のジャズな人々.docx | |
-|大館鳳鳴校長 | IMG_3405.jpg <br/> Ｒ７東京鳳鳴会会報校長挨拶文.doc|  ![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/a.jpg)|
+|大館鳳鳴校長 | IMG_3405.jpg <br/> Ｒ７東京鳳鳴会会報校長挨拶文.doc|  ![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/A_small.jpg)|
 | 秋高連 | IMG_3438.jpg <br/> IMG_3443.jpg <br/>秋高連総会.txt |写真2枚 |
 |29期_田村祐子|鳳鳴会２０２４〔提出用）.txt| |
 |34期_三木尚子| 鳳鳴会.docx| |
