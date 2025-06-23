@@ -24,3 +24,5 @@
 |受注広告 1 | 奥野法律事務所 |![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/H_small.jpg)|
 |受注広告 2 |10CC| ![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/F_small.jpg)|
 |受注広告 3 |楓|![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/G_small.jpg)|
+|受注広告 4 |20期|![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/J_small.jpg)|
+
