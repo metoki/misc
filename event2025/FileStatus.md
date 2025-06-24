@@ -13,6 +13,7 @@
 |佐藤前会長 | 青森のジャズな人々.docx | |
 |大館鳳鳴校長 |Ｒ７東京鳳鳴会会報校長挨拶文.doc|  ![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/A_small.jpg)|
 | 秋高連 | 秋高連総会.txt |![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/B_small.jpg) <br/>![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/C_small.jpg)  |
+|18期_鈴木弘俊|総会に参加して.txt||
 |29期_田村祐子|鳳鳴会２０２４〔提出用）.txt| |
 |34期_三木尚子| 鳳鳴会.docx| |
 |47期_桜庭広樹|東京鳳鳴会　新幹事挨拶（櫻庭）.docx| |
