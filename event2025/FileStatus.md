@@ -19,10 +19,13 @@
 |49期_長岐康平| 鳳鳴会寄稿文（長岐康平）.docx| ![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/D_small.jpg) <br/>![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/E_small.jpg) <br/>|
 |67期_松岡芳篤 |  同窓会に初めて参加して.docx | |
 |広報        | 20期広告案R2.pptx <br/>25年度会費納入のお願い分　修正250623.pptx <br/>  25年度総会ご意見伺い書案.docx | |
-| 店舗紹介    | 会報店紹介記事（しぇんろん）R1.pptx <br/>  会報店紹介記事作成要領R1.pptx |
+| 店舗紹介1    |しぇんろん|![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/L_small.jpg) |
+| 店舗紹介2    |八十八   |![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/K_small.jpg) |
 | 広告       |   広告掲載について（小板橋）25年6月吉日R0.docx <br/> 広告事例.pptx|
 |受注広告 1 | 奥野法律事務所 |![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/H_small.jpg)|
 |受注広告 2 |10CC| ![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/F_small.jpg)|
 |受注広告 3 |楓|![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/G_small.jpg)|
 |受注広告 4 |20期|![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/J_small.jpg)|
+|受注広告 5 |奈良会計事務所(昨年の原稿を流用)|![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/M_small.jpg)|
+|受注広告 6 |関西鳳鳴会(昨年の原稿を流用)|![写真あり](https://github.com/metoki/misc/blob/main/event2025/images/N_small.jpg)|
 
